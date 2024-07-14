@@ -195,7 +195,7 @@ body.sidemenu-open .wrapper:after {
     width: 100%;
     height: 100%;
     z-index: 0;
-    left: -260px;
+    left: 0px;
     top: 0;
     transition: all ease 0.5s;
     -webkit-transition: all ease 0.5s;
