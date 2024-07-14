@@ -192,7 +192,7 @@ body.sidemenu-open .wrapper:after {
 .sidebar {
     position: absolute;
     padding-top: env(safe-area-inset-top);
-    width: 250px;
+    width: 100%;
     height: 100%;
     z-index: 0;
     left: -260px;
